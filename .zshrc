@@ -8,7 +8,9 @@ neofetch
 
 alias ll="ls -lha"
 alias pins="sudo pacman -Syu"
+alias psrch="sudo pacman -Ss"
 alias prmv="sudo pacman -Rns"
 alias ains="yay -Syu"
+alias asrch="yay -Ss"
 alias armv="yay -Rns"
 alias lr="ls -R"
