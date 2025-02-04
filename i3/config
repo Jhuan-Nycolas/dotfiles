@@ -18,7 +18,7 @@ bindsym $mod+c exec chromium
 bindsym $mod+q kill
 
 # open thunar
-bindsym $mod+e exec thunar
+bindsym $mod+e exec dolphin
 
 # start a program launcher
 bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
