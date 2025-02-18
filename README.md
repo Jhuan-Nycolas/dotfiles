@@ -1,8 +1,45 @@
-# dotfiles
-My i3, alacritty, neovim, nitrogen, polybar and sddm dotfiles :)
+# Dotfiles
 
-Clone na **home** com o **mesmo nome** e depois execute o **setup.sh** em ~/dotfiles/setup.sh
+* Lista de configurações
+   * Waybar | ~/.config
+   * Hyprland | ~/.config
+   * Wofi | ~/.config
+   * Zsh | ~
+   * Tmux | ~ (.tmux, .tmux.conf)
+   * Neofetch | ~/.config
+   * Neovim | ~/.config (ainda incompleto)
 
-**Essas configurações forão personalizadas para mim então pode não servir pra você**
+<img src="./Preview.png">
 
-**Execute no Arch Linux**
+# Nord Theme
+
+### Oh My Zsh
+
+Instale usando:
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+### Zsh:
+
+```
+git clone https://github.com/fxbrit/nord-extended $ZSH/themes/nord-extended
+```
+
+### Tmux:
+
+```
+git clone https://github.com/nordtheme/tmux ~/.tmux/themes/nord-tmux
+```
+
+# Wallpaper
+
+Copie o wallpaper.png para ~/Pictures/wallpaper.png
+
+Se quiser usar outro wallpaper altere o caminho em `~/.config/hypr/hyprpaper.conf` (Altere o caminho nas duas linhas)
+
+# Apps
+
+- Fzf (para procurar arquivos)
+- Zoxide (alternativa ao cd)
+- Exa (alternativa ao ls)
