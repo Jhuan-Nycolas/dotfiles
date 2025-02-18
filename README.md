@@ -11,15 +11,18 @@
 
 <img src="./Preview.png">
 
-# Nord Theme
+# [Nord Theme](https://www.nordtheme.com/)
 
 ### Zsh:
 
 Instale o [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh) usando:
+
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-## [Nord](https://www.nordtheme.com/):
+
+Nord:
+
 ```
 git clone https://github.com/fxbrit/nord-extended $ZSH/themes/nord-extended
 ```
