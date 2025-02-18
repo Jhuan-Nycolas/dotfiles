@@ -13,32 +13,29 @@
 
 # Nord Theme
 
-### Oh My Zsh
+### Zsh:
 
-Instale usando:
+Instale o [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh) usando:
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-
-### Zsh:
-
+## [Nord](https://www.nordtheme.com/):
 ```
 git clone https://github.com/fxbrit/nord-extended $ZSH/themes/nord-extended
 ```
 
-### Tmux:
-
+### [Tmux](https://github.com/tmux/tmux/wiki):
 ```
 git clone https://github.com/nordtheme/tmux ~/.tmux/themes/nord-tmux
 ```
 
-# Wallpaper
+# Wallpaper:
 
 Copie o wallpaper.png para ~/Pictures/wallpaper.png
 
 Se quiser usar outro wallpaper altere o caminho em `~/.config/hypr/hyprpaper.conf` (Altere o caminho nas duas linhas)
 
-# Apps
+# Apps:
 
 - Fzf (para procurar arquivos)
 - Zoxide (alternativa ao cd)
