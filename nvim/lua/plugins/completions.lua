@@ -31,11 +31,11 @@ return {
     end,
   },
 
-  {
-    "L3MON4D3/LuaSnip",
-    dependencies = {
-      "saadparwaiz1/cmp_luasnip",
-      "rafamadriz/friendly-snnipets"
-    },
-  }
+ --  {
+ --    "L3MON4D3/LuaSnip",
+ --    dependencies = {
+ --      "saadparwaiz1/cmp_luasnip",
+ --      "rafamadriz/friendly-snnipets"
+ --    },
+ --  }
 }

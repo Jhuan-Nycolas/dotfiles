@@ -8,6 +8,7 @@
    * Tmux | ~ (.tmux, .tmux.conf)
    * Neofetch | ~/.config
    * Neovim | ~/.config (ainda incompleto)
+   * Alacritty | ~/.config
 
 <img src="./Preview.png">
 
