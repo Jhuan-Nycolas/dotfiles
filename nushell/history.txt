@@ -872,3 +872,133 @@ cler
 clear
 ls
 cd dotfiles/
+git add .
+git commit -m "TMUX pronto"
+git push
+clear
+cd ..
+ls
+clear
+cd Dev
+ls
+rm flake.nix
+rm flake.lock
+clear
+l
+clear
+s
+clear
+ls
+mkdir Haskell
+cd Haskell/
+clear
+ghci
+clear
+alsamixer
+ghci
+clear
+cd ..
+ls
+git add .
+git commit -m "Removendo nix"
+git push
+clear
+cd ..
+ls
+cd Nvim/
+ls
+nvim config.nix
+clear
+git add .
+git commit -m "Adicionado suporte a haskell"
+git push
+clear
+nix run github:Jhuan-Nycolas/Nvim --refresh
+nvim config.nix
+which nvim
+/bin/nvim config.nix
+clear
+nvim
+clear
+nix run github:Jhuan-Nycolas/Nvim --refresh
+clear
+nvim --refresh
+nix run github:Jhuan-Nycolas/Nvim --refresh
+git add .
+git commit -m "Desbugando"
+git push
+clear
+nvim --refresh
+clear
+cd ..
+ls
+cd Dev
+ls
+clear
+cd Haskell/
+ls
+clear
+cd Dev/Haskell/
+ls
+clear
+ghc main.hs -o main
+clear
+ghc main.hs -o main
+mv main.hs program.hs
+clear
+ghc program.hs -o program
+sudo pacman -S haskell
+cçear
+clear
+ghc program.hs -o program
+clear
+ghcup
+clear
+sudo pacman -S ghcup
+clear
+ghc --version
+clear
+ghc program.hs -o program
+clear
+ghc program.hs -o program
+clea
+clear
+ghc program.hs -o program
+sudo pacman -S cabal-install
+clear
+ghc program.hs -o program
+ghc-pkg check
+clear
+sudo pacman -S g++ gcc gmp make ncurses realpath xz-utils pkg-config
+exit
+sudo pacman -Rns ghc
+exit
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | bash
+clear
+ghc program.hs -o program
+ghc
+ghci
+clear
+sudo pacman -S ghc
+clear
+ghc program.hs -o program
+ghc-tui
+clear
+sudo pacman -Rns ghc
+clear
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | bash
+ghc
+bash
+clear
+$env.PATH = ($env.PATH | prepend $"($env.HOME)/.ghcup/bin")<\n>$env.PATH = ($env.PATH | prepend $"($env.HOME)/.cabal/bin")
+ghc
+clear
+ghc program.hs -o program
+ls
+./program
+./program.hi
+./program.o
+clear
+ls
+clear
+nvim ~/dotfiles/nushell/env.nu
