@@ -14,6 +14,7 @@ alias icon = grid -i -s '  '
 alias l = ls **/*
 alias ll = l -a
 alias la = ls -a
+alias nvim = nix run github:Jhuan-Nycolas/Nvim
 
 # Theme (Catpuccin Macchiato)
 source ./catpuccin.nu

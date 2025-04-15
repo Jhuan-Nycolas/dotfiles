@@ -277,3 +277,253 @@ ls
 git clone https://github.com/Jhuan-Nycolas/Nvim
 git add .
 rm -rf Nvim
+git add .
+git commit -m "Trocando neovim por neovim do nix"
+git push
+clear
+cd ..
+ls
+clear
+sh <( curl -L https://nixos.org/nix/install)
+clear
+sh <( curl -L https://nixos.org/nix/install)>
+clear
+sh <( curl -L https://nixos.org/nix/install) --no-daemon
+clear
+sh <(curl -L https://nixos.org/nix/install) --no-daemon
+clear
+sh <(curl -L https://nixos.org/nix/install) --no-daemon
+clear
+nvim install.sh
+chmod +x install.sh
+./install.sh
+/home/tux/.nix-profile/etc/profile.d/nix.sh
+clear
+ls
+nix
+clear
+ls
+rm install.sh
+ls
+clear
+nix
+clea\r
+clear
+ls
+clear
+ls
+clear
+/home/tux/.nix-profile/etc/profile.d/nix.sh
+chmod +x /home/tux/.nix-profile/etc/profile.d/nix.sh
+/home/tux/.nix-profile/etc/profile.d/nix.sh
+clear
+nix
+/home/tux/.nix-profile/etc/profile.d/nix.sh
+cat /home/tux/.nix-profile/etc/profile.d/nix.sh
+sudo pacman -S bat
+clear
+cat /home/tux/.nix-profile/etc/profile.d/nix.sh
+clear
+cat /home/tux/.nix-profile/etc/profile.d/nix.sh
+clear
+/home/tux/.nix-profile/etc/profile.d/nix.sh
+nix
+ls
+clear
+echo nix | find /
+echo nix | find / --name
+echo nix | find / -name
+echo nix | find / nix
+ls / | find nix
+ls **/* | find nix
+clear
+ls **//* | find nix
+clear
+ls / **/* | find nix
+clear
+ls **/* | find nix
+cd /
+clear
+ls **/* | find nix
+clear
+ls
+clear
+ls
+clear
+ls
+cd nix
+ls
+clear
+cd ..
+clear
+cd
+clear
+.nix-profile/bin/nix
+.nix-profile/bin/nix run
+clear
+nix
+.nix-profile/bin/nix run
+nvim .config/nix/nix.conf
+clear
+let-env PATH = ($env.PATH | prepend "~/.nix-profile/bin")<\n>
+$env;PATH = ($env.PATH | prepend "~/.nix-profile/bin")<\n>
+$env.PATH = ($env.PATH | prepend "~/.nix-profile/bin")
+$env.PATH = ($env.PATH | prepend "~/.nix-profile/bin" "/nix/store")
+$env.PATH = ($env.PATH | prepend "~/.nix-profile/bin")
+clear
+ls
+clear
+if
+if .nix-profile/bin/nix
+if .nix-profile/bin/nix {echo a}
+if !(.nix-profile/bin/nix; $?) {echo a}
+if !(.nix-profile/bin/nix; ?) {echo a}
+?
+$?
+clear
+if !(.nix-profile/bin/nix; $env.LAST_EXIT_CODE) {echo a}
+if !(.nix-profile/bin/nix > /dev/null; $env.LAST_EXIT_CODE) {echo a}
+if !(.nix-profile/bin/nix | /dev/null; $env.LAST_EXIT_CODE) {echo a}
+if !(.nix-profile/bin/nix | null; $env.LAST_EXIT_CODE) {echo a}
+clear
+if not (try .nix-profile/bin/nix | null) {<\n>  echo "nix falhou ou não existe"<\n>}<\n>
+clear
+if not (try { .nix-profile/bin/nix | null}) {<\n>  echo "nix falhou ou não existe"<\n>}
+if not (try .nix-profile/bin/nix | null ) {<\n>  echo "nix falhou ou não existe"<\n>}
+clear
+if not (try { .nix-profile/bin/nix } | null) {<\n>  echo "nix falhou ou não existe"<\n>}<\n>
+clear
+try { .nix-profile/bin/nix --version } | null<\n>if $env.LAST_EXIT_CODE != 0 {<\n>  echo "nix falhou ou não existe"<\n>}<\n>
+try { .nix-profile/bin/nix --version } | null<\n>if $env.LAST_EXIT_CODE != 0 {<\n>  echo "nix falhou ou não existe"<\n>} else {<\n>  echo "Nix deu certo existe"<\n>}
+clear
+nix
+clear
+nix run 
+clear
+nix run github:Jhuan-Nycolas/Nvim
+clear
+git clone https://github.com/Jhuan-Nycolas/Nvim
+cd Nvim/
+ls
+nvim config.nix
+git add .
+git commit -m "Catppuccin >>>>> Nord"
+git push
+clear
+nix run github:Jhuan-Nycolas/Nvim
+nvim
+nix run github:Jhuan-Nycolas/Nvim
+clear
+nix run github:Jhuan-Nycolas/Nvim?rev=main
+nix run "github:Jhuan-Nycolas/Nvim?rev=main"
+clear
+git log -n1 --pretty=format:"%H"
+sudo pacman -S less
+clear
+git log -n1 --pretty=format:"%H"
+nix run github:Jhuan-Nycolas/Nvim?rev=56f951f487a917d97179a026267290b9a1a17650
+nvim config.nix
+clear
+nix run github:Jhuan-Nycolas/Nvim?rev=56f951f487a917d97179a026267290b9a1a17650
+git add .
+git commit -m "Usando Macchiato"
+git push
+clear
+nix run github:Jhuan-Nycolas/Nvim?rev=56f951f487a917d97179a026267290b9a1a17650
+nix run github:Jhuan-Nycolas/Nvim?rev=
+git log -n1 --pretty=format:"%H"
+nix run github:Jhuan-Nycolas/Nvim?rev=2f96f4c24c8df66bd505dcd33daf670f37205f3e
+ls
+clear
+ls
+cd ..
+ls
+clear
+ls
+clear
+alias nvim = nix run github:Jhuan-Nycolas/Nvim
+clear
+nvim dotfiles/nushell/config.nu
+nvim dotfiles/nushell/env.nu
+clear
+nvim
+clear
+ls
+nix
+nvim
+clear
+ls
+clear
+nvim dotfiles/nushell/env.nu
+clear
+nvim dotfiles/nushell/config.nu
+nvim dotfiles/nushell/env.nu
+clear
+nvim
+clear
+cd dotfiles/nushell/
+ls
+clear
+ls
+which nix
+which nux
+clear
+nvim config.nu
+nvim
+nix run github:Jhuan-Nycolas/Nvim --refresh
+nvim
+clear
+nvim
+clear
+cd dotfiles/
+ls
+clear
+cd hypr/
+ks
+ls
+clear
+nvim hyprpaper.conf
+hyprpaper
+clear
+nvim hyprpaper.conf
+ls
+clear
+hyprpaper
+ls
+clear
+nvim hyprpaper.conf
+clear
+ls
+clear
+cd dotfiles/
+ls
+cd kitty/
+ls
+clear
+ls
+clear
+nvim
+ls
+clear
+ls
+hyprpaper
+clear
+ls
+cd Nvim/
+ls
+clear
+nvim config.nix
+nix run
+git add .
+git commit -m "Mudando o fundo para transparente"
+git push
+nix run github:Jhuan-Nycolas/Nvim --refresh
+clear
+nvim
+clear
+ls
+clear
+cd ..
+ls
+cd dotfiles/
+ls
