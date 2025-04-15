@@ -255,3 +255,25 @@ git commit -m "initial commit"
 git config --global user.email "jhuan2024@hotmail.com"
 git config --global user.name "Jhuan-Nycolas"
 clear
+git add .
+git commit 
+git commit -m "initial commit"
+git push
+clear
+git push -u repo main
+clear
+nvim
+clear
+nvim
+clear
+nvim
+ls
+cd dotfiles/
+ls
+rm -rf nvim
+lear
+clear
+ls
+git clone https://github.com/Jhuan-Nycolas/Nvim
+git add .
+rm -rf Nvim
