@@ -527,3 +527,149 @@ cd ..
 ls
 cd dotfiles/
 ls
+git add .
+git commit -m "Backup"
+git push
+clear
+ls
+clear
+cd ..
+ls
+clear
+ls
+rm -rf NixDotfiles/
+l
+clear
+ls
+clear
+poweroff
+nohup hyprpaper
+ls
+rm nohup.out
+clear
+nohup hyprpaper
+ls
+cat nohup.out
+pkill hyprpaper
+clear
+ls
+rm nohup.out
+clear
+cd dotfiles/
+ls
+cd hypr/
+ls
+clear
+ls
+rm nohup.out
+ls
+clear
+ls
+chmod +x ./init.sh
+clear
+exit
+ls
+cd dotfiles/
+ls
+cd kitty/
+ls
+clear
+nvim hyprland.conf
+clear
+ls
+clear
+pkill Hyprland
+ls
+clear
+hyprpaper
+waybar
+clear
+ls
+clear
+cd dotfiles/
+ls
+clear
+ls
+cd hypr/
+ls
+nvim hyprpaper.conf
+clear
+pkill Hyprland
+hyprpaper
+clear
+ls
+clear
+ls
+cd dotfiles
+ls
+clear
+cd hypr/
+ls
+clear
+ls
+nvim hyprland
+clear
+pkill Hyprland
+ls
+clear
+ls
+cd dotfiles
+ls
+clear
+cd hypr/
+ls
+clear
+nvim hyprland.conf
+clear
+pkill Hyprland
+ls
+clear
+cd dotfiles/
+lsa
+ls
+cd hypr/
+ls
+clear
+ls
+clear
+nvim hyprland.conf
+pkill Hyprland
+hyprland --help
+exit
+hyprland -c .config/hypr/hyprland.conf
+clear
+pkill Hyprland
+ls
+cd .config
+ls
+rm nvim
+ls
+clear
+ls
+cd hypr
+ls
+cat hyprland.conf
+clear
+hyprctl getoption decoration:active_border_color
+hyprctl getoption decoration:col.active_border_color
+cat .config/hypr/hyprland.conf
+clear
+hyprctl getoption decoration:col.active_border_color
+hyprctl getoption general:col.active_border_color
+hyprctl getoption general:col.active_border
+cat .config/hypr/hyprland.conf
+clear
+ls
+clear
+cd .config
+cd hypr
+ls
+clear
+nvim hyprland.conf
+cd ~/dotfiles/hypr
+ls
+clear
+cd ..
+ls
+clear
+ls
