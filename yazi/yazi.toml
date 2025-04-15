@@ -1,0 +1,21 @@
+"$schema" = "https://yazi-rs.github.io/schemas/yazi.json"
+
+[manager]
+linemode     = "size"
+show_hidden  = true
+sort_by      = "natural"
+mouse_events = []
+
+[preview]
+wrap       = "yes"
+max_width  = 1500
+max_height = 1500
+
+[input]
+cursor_blink = true
+
+[opener]
+edit = [
+	{ run = '${EDITOR:=nix run github:Jhuan-Nycolas/Nvim} "$@"', desc = "$EDITOR", block = true },
+	{ run = 'code "$@"', orphan = true },
+]

@@ -673,3 +673,202 @@ cd ..
 ls
 clear
 ls
+git add .
+git commit -m "Esses prontos"
+git push
+clear
+sudo pacman -S yazi
+yazi
+clear
+ls
+clear
+ls
+yazi --init
+yazi -- --init
+clear
+yazi --help
+git clone https://github.com/sxyazi/yazi ./yazi
+clear
+ls
+cd yazi/
+ls
+clear
+ls
+lear
+clear
+rm -rf ./*
+clear
+cd ~/.config/yazi<\n><\n>curl -LO https://raw.githubusercontent.com/sxyazi/yazi/main/yazi.toml<\n>curl -LO https://raw.githubusercontent.com/sxyazi/yazi/main/keymap.toml<\n>curl -LO https://raw.githubusercontent.com/sxyazi/yazi/main/theme.toml<\n>
+ls
+cat theme.toml
+cat keymap.toml
+cat yazi.toml
+clear
+rm ./*
+clear
+cd ..
+ls
+clear
+cd ~/.config
+ls
+ln -sf ~/dotfiles/yazi .
+ls
+c
+clear
+cd ~/dotfiles/
+ls
+clear
+cd yazi/
+ls
+clear
+curl -LO https://raw.githubusercontent.com/sxyazi/yazi/main/crates/yazi-config/assets/yazi.toml<\n>curl -LO https://raw.githubusercontent.com/sxyazi/yazi/main/crates/yazi-config/assets/keymap.toml<\n>curl -LO https://raw.githubusercontent.com/sxyazi/yazi/main/crates/yazi-config/assets/theme.toml
+nvim
+clear
+curl -LO https://raw.githubusercontent.com/sxyazi/yazi/main/crates/yazi-config/assets/yazi.toml<\n>curl -LO https://raw.githubusercontent.com/sxyazi/yazi/main/crates/yazi-config/assets/keymap.toml<\n>curl -LO https://raw.githubusercontent.com/sxyazi/yazi/main/crates/yazi-config/assets/theme.toml
+cat *.toml
+clear
+curl -LO https://raw.githubusercontent.com/sxyazi/yazi/next/crates/yazi-config/assets/yazi.toml<\n>curl -LO https://raw.githubusercontent.com/sxyazi/yazi/next/crates/yazi-config/assets/keymap.toml<\n>curl -LO https://raw.githubusercontent.com/sxyazi/yazi/next/crates/yazi-config/assets/theme.toml
+cat *.toml
+clear
+yazi
+clear
+yazi
+clear
+nvim yazi.toml
+clear
+yazi
+nvim flavors/
+yazi
+clear
+yazi
+yazi
+clear
+yazi
+clear
+yazi
+clear
+ls
+clear
+cd ..
+ls
+clear
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+ln -sf ~/dotfiles/tmux .config
+tmux
+sudo pacman -S tmux
+clear
+exit
+tmux
+clear
+exit
+tmux
+clear
+source .config/tmux/tmux.conf
+exit
+tmux
+cçear
+clear
+cçear
+source-file ~/.config/tmux/tmux.conf
+clear
+tpm
+clear
+ls
+cd .tmux
+ls
+cd plugins/
+ls
+cd tpm/
+ls
+./tpm
+cat tpm
+clear
+exit
+exit
+exit
+ls
+clear
+ls
+clear
+ls
+clear
+yazi
+clear
+ls
+git add 
+git add .
+ls 0a
+clear
+ls -a
+cd tmux
+ls -a
+cd plugins/
+ls
+cd ..
+ls
+mv tmux.conf .tmux.conf
+cd .tmux.conf
+cd .tmux.conf ..
+mv .tmux.conf ..
+clear
+cd ..
+ls
+rm -rf tmux
+clear
+rm ~/.config/tmux
+ls
+clear
+ls
+ls -a
+ln -sf .tmux.conf ~
+clear
+ls
+clear
+ls
+clear
+ls
+exit
+sudo pacman -S ghc
+clear
+sudo nvim /etc/pacman.conf
+clear
+sudo pacman -S paru
+clear
+sudo pacman -S nitch
+yay -S nitch
+clear
+nitch
+sudo pacman -S fastfetch
+fastfetc
+fastfetch
+fastfetch --help
+sudo pacman -Rns fastfetch
+ckear
+clear
+nitch
+clear
+exit
+cd dotfiles
+nvim .tmux.conf
+exit
+yay -S paru
+clear
+yay -Syu
+clear
+ls
+clear
+ls
+nvim .tmux.conf
+ls
+exit
+ls
+exit
+nvim ~/dotfiles/.tmux.conf
+ls
+clear
+ls
+git clone https://github.com/Jhuan-Nycolas/Dev
+cler
+clear
+ls
+cd dotfiles/
