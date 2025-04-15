@@ -1,0 +1,257 @@
+exit
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+cd NixDotfiles/
+ls
+cd ..
+ls
+clear
+cd .config
+ls
+clear
+ls
+rm -rf ~/dotfiles/
+mkdir ~/Downloads/
+mkdir ~/dotfiles
+rm -rf nushell/; ln -sf ~/dotfiles/nushell .
+ls
+clear
+ls
+clear
+cd NixDotfiles/
+ls
+clear
+ls
+cd home-manager/
+ls
+clear
+cd hosts/default/
+ls
+cd shells/
+cd ..c
+cd ..
+clear
+cd hosts/
+clear
+nvi
+clear
+cat dotfiles/waybar/scripts/power-menu.sh
+loginctl lock-session
+clear
+nvim
+cat ./default/shells/nushell/nushell.nix
+sudo pacman -S zoxide bat oh-my-posh
+clear
+yay -S oh-ny-posh
+clear
+yay -S oh-my-posh
+oh-my-posh get themes --users
+oh-my-posh get themes --user
+oh-my-posh get themes
+oh-my-posh get themes --user
+nvim ./prompt.omp.json
+clear
+oh-my-posh init nushell --config "./prompt.omp.json" | save -f ./prompt.nu<\n>source ./prompt.nu
+oh-my-posh init nushell --config "~/prompt.omp.json" | save -f ./prompt.nu<\n>source ./prompt.nu
+ls
+oh-my-posh init nushell --config "~/prompt.omp.json" | save -f ./prompt.nu
+oh-my-posh init nu --config "~/prompt.omp.json" | save -f ./prompt.nu
+source prompt.nu
+cat prompt.nu
+clear
+oh-my-posh init nu --config "/home/tux/prompt.omp.json" | save -f ./prompt.nu
+source prompt.nu
+cat prompt.nu
+cat ~/prompt.omp.json | jq .
+sudo pacman -S jq<\n>
+cat ~/prompt.omp.json | jq .
+oh-my-posh init nu --config ~/prompt.omp.json | save -f prompt.nu<\n>source prompt.nu
+ls
+cd NixDotfiles/
+ls
+clear
+ls
+ls -a
+clear
+oh-my-posh init nu --config ~/prompt.omp.json --debug
+ls
+clear
+cd 
+ls
+clear
+ls
+nvim prompt.nu
+clear
+source prompt.nu
+kls
+ls
+clear
+2ls
+ls
+clear
+ls
+rm prompt.omp.json
+ls
+source prompt.nu
+clear
+nvim prompt.omp.json
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+cd dotfiles/
+ls
+cd nushell/
+ls
+clear
+ls
+mv ~/prompt* .
+ls
+oh-my-posh init nu --config ~/.config/nushell/prompt.omp.json --debug
+clear
+ls
+clear
+nvim prompt.nu
+clear
+source prompt.nu
+clear
+ls
+clear
+ls
+clear
+ls
+nvim config.nu
+clear
+ls
+clear
+$env.config
+ls -a
+clear
+find / -name *zoxide*
+find / --name *zoxide*
+find / *zoxide*
+find /
+echo *zoxide* | find /
+echo "*zoxide*" | find /
+echo "zoxide" | find /
+echo "zoxide*" | find /
+clear
+zoxide init nu
+zoxide init nushell 
+ls
+cd nushell
+clear
+nvim config.nu
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+cd dotfiles/l
+cd dotfiles/
+ks
+ls
+clear
+ls
+cd nushell/
+ls
+clear
+ls
+source catpuccin.nu
+ls
+clear
+ls
+clear
+ls
+nvim catpuccin.nu
+ls
+clear
+cd ..
+ls
+cd kitty/
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+nvim
+clear
+nvim catpuccin.conf
+clear
+cd dotfiles/
+ls
+clear
+ls
+cd nvim
+ls
+clear
+ls
+nvim
+clear
+ls
+mv lua/plugins/catpuccin.lua lua/plugins/theme.lua
+clear
+nvim
+clear
+nvim
+clear
+nvim
+clear
+git clone http://github.com/catppuccin/nvim
+ls
+rm -fr nvim
+clear
+nvim --version
+git config --global credential.helper
+git config --global credential.helper store
+nvim ~/.git-credentials
+rm .git-credentials
+git remote -v
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+git clone https://github.com/catppuccin/nvim
+rm -rf nvim
+ls
+clear
+ls
+cd dotfiles/
+ls
+clear
+ls
+clear
+git init
+git branch -m main
+git remote add https://github.com/Jhuan-Nycolas/dotfiles
+git remote add repo https://github.com/Jhuan-Nycolas/dotfiles
+clear
+git add .
+git commit -m "initial commit"
+git config --global user.email "jhuan2024@hotmail.com"
+git config --global user.name "Jhuan-Nycolas"
+clear
