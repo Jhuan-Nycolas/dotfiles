@@ -1002,3 +1002,515 @@ clear
 ls
 clear
 nvim ~/dotfiles/nushell/env.nu
+cd ~/dotfiles; git add .; git commit -m "Colocado ghc no path"; git push; cd ~/Dev/Haskell
+clear
+nvim main.hs
+source ~/dotfiles/nushell/env.nu
+clear
+ls
+clear
+nvim Makefile
+make
+clear
+ls
+clear
+alias run = make; ./program
+run
+alias run = 'make; ./program'
+def run [] { make; ./program }
+clear
+run
+def run [] { make | null; ./program }
+clear
+run
+clear
+sudo pacman -S entr
+ls *program
+echo program | entr run
+echo program | entr ./run.sh
+echo "make; ./program; clear" >> run.sh
+ls
+echo "make; ./program; clear" | save run.sh
+çs
+ls
+clear
+echo program | entr ./run.sh
+chmod +x run.sh
+clear
+echo program | entr ./run.sh
+clear
+nvim run.sh
+clear
+ls
+clear
+ghc --help
+ghc --wathc
+ghc --watch
+clear
+ls
+clear
+echo program.sh | entr ./run.sh
+echo "program.hs" | entr ./run.sh
+clear
+nvim run.sh
+clear
+nvim main.hs
+clear
+exut
+exit
+echo "program.hs" | entr ./run.sh
+exit
+tmux
+clear
+exit
+git clone https://github.com/Keyitdev/sddm-astronaut-theme ./sddm
+ls
+cd sddm
+ls
+clear
+ls
+./setup.sh
+clear
+./setup.sh
+clear
+./setup.sh
+clear
+./setup.sh
+ls
+cp -r . /usr/share/sddm/themes/sddm-astronaut-theme
+sudo cp -r . /usr/share/sddm/themes/sddm-astronaut-theme
+clear
+./setup.sh
+clear
+cd ..
+ls
+rm -rf sddm
+clear
+exit
+tmux
+nvim
+exit
+tmux
+clear
+ls
+clear
+ls
+rm .tmux/
+rm .tmux.conf
+clear
+cp dotfiles/.tmux.conf .
+cleat
+clear
+exit
+tmux
+clear
+ls
+clear
+cd dotfiles/
+ls
+ls -a
+clear
+cd ..
+ls
+clear
+exit
+ls
+clear
+ls
+cd Dev/Haskell/
+ls
+clear
+cd Dev/Haskell/
+ls
+clear
+exit
+sudo pacman -S haskell-language-server
+yay -Syu
+clear
+exit
+nvim
+ls
+clear
+clea
+clear
+sudo pacman -Rns haskell-language-server
+clear
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | bash
+exit
+nitch
+clear
+nitch
+clear
+exut
+exit
+nvim program.hs
+echo "program.hs" | entr ./run.sh
+clear
+exit
+cd .
+cd ..
+git add .
+git commit -m "Aprendendo haskell"
+git push
+clear
+exit
+tmux
+clear
+exit
+ls
+clear
+cd Dev/Haskell/
+ls
+clear
+exit
+exit
+tmux
+cd
+clear
+exit
+cd Dev/Haskell/
+ls
+clear
+alsamixer
+clear
+cd Dev/Haskell/
+clear
+echo "program.hs" | entr ./run.sh
+exit
+echo "program.hs" | entr ./run.sh
+cd Dev/Haskell/
+cçear
+clear
+echo "program.hs" | entr ./run.sh
+clear
+echo "program.hs" | entr ./run.sh
+pkill neovim
+pkill nix
+pkill nix run
+pkill nix
+clear
+cd Dev/Haskell/
+echo "program.hs" | entr ./run.sh
+exit
+nvim program.hs
+clear
+cd ..
+git add .
+git commit -m "Aprendendo haskell"
+git push
+exit
+alsamixer
+exit
+tmux
+clear
+exit
+poweroff
+cd Dev/Haskell/
+clear
+exit
+tmux
+cd
+clear
+cd Dev/Haskell/
+exit
+clear
+cd Dev/Haskell/
+clear
+ls
+clear
+nvim program.hs
+nvim ~/Nvim
+cd ~/Nvim; git add .; git commit -m "Mudando uns keybinds"; git push; cd ~/Dev/Haskell
+nvim --refresh
+clear
+alsamixer
+exit
+echo "program.hs" | entr ./run.sh
+clear
+ls
+clear
+ghc --help
+clear
+ls
+clear
+ghc -i program.hs
+ls
+rm program program.hi
+ls
+rm program.o
+ls
+cleare
+clear
+ls
+clear
+runghc program.hs
+echo "program.hs" | entr runghc program.hs
+clear
+ls
+cd Dev/Haskell/
+clear
+ls
+clar
+clear
+ghci program.hs
+clear
+ghci program.hs
+clear
+exit
+echo "program.hs" | entr ./run.sh
+clear
+nvim
+cd ..
+git add .
+git commit -m "Aprendendo haskell"
+git push
+cd Haskell/
+clear
+exit
+tmux
+exit
+tmux
+clear
+cd Dev/Haskell/
+clear
+echo "program.hs" | entr ./run.sh
+clear
+ls
+exit
+nvim program.hs
+cd ..
+git add .
+git commit -m "Aprendendo haskell"
+git puhs
+git push
+rm -rf Haskell/
+mkdir F#
+ls
+clear
+cd F#
+ls
+clar
+clear
+sudo pacman -S dotnet
+clear
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | bash
+clear
+ls
+clear
+rm -rf ~/.cabal/
+rm -rf ~/.ghcup/
+clear
+ls
+clear
+nvim ~/Nvim
+clear
+sudo pacman -S dotnet-sdk dotnet-runtime
+clear
+dotnet --version
+clear
+dotnet new console -lang F#
+clear
+ls
+clear
+ls
+clear
+cd obj
+ls
+cd ..
+ls
+clear
+nvim program.hs --refresh
+cd ~
+cd Nvim/
+git add .
+git commit -m "Removendo haskell e trocando por fsharp"
+git push
+cd ~/Dev/F#
+clear
+alsamixer
+exit
+cd ~/Dev/F#
+ls
+clear
+dotnet run
+ls
+clear
+ls
+clear
+nvim Program.fs
+clear
+alsamixer
+echo "Program.fs" | entr dotnet run
+clear
+exit
+nvim program.hs --refresh
+cd ;;
+cd F#
+çs
+ls
+clear
+cd ..
+clear
+git add .
+git commit -m "Eu odeio Haskell"
+git push
+clear
+exit
+tmux
+cd
+clear
+ls
+clear
+echo $env.PWD
+cd Dev
+echo $env.PWD
+clear
+$env.PWD = /
+$env.PWD = "/"
+ssh server@192.168.1.11
+clear
+ls
+clear
+sudo pacman -S neovide
+clear
+cd .nix-profile
+ls
+cd .nix-profile
+cd ./.nix-profile
+ls -a
+cd .mozilla
+cd ..
+ls
+clear
+ls
+ls -a
+cd .nix-defexpr/
+ls
+cd ..
+ls
+clear
+ls -a
+ls .nix-profile
+clear
+ls
+clear
+ls -a
+which ./.nix-profile
+clear
+ls
+cd .nix-profile
+ls
+clear
+cd .nix-profile
+find .nix-profile
+ls **/* / | find .nix-profile
+ls **/* | find .nix-profile
+clear
+cd ~
+cd /
+clear
+ls **/* | find .nix-profile
+clear
+cd /nix/var/nix/profiles/per-user/seu-usuario/profile
+cd /nix/var/nix/profiles/per-user/tux/profile
+cd /nix/
+ls
+cd var
+ls
+cd nix/
+ls
+cd profiles/
+ls
+cd per-user/
+ls
+ls -a
+cd ..
+ls
+clear
+cd ..
+ls
+cd ..
+cd store/
+ls
+clear
+ls *nvim
+ls *nvim*
+nvim Nvim/config.nix
+clear
+sudo pacman -S gitsingns-nvim
+clear
+ls
+clear
+sudo pacman -Rns neovide
+clear
+cd Dev/
+ls
+rm -rf F#
+mkdir Haskell
+╭───┬───────────┬──────┬───────┬──────────────╮<\n>│ # │   name    │ type │ size  │   modified   │<\n>├───┼───────────┼──────┼───────┼──────────────┤<\n>│ 0 │ Cpp       │ dir  │  30 B │ 2 days ago   │<\n>│ 1 │ F#        │ dir  │ 104 B │ 17 hours ago │<\n>│ 2 │ Markdowns │ dir  │  60 B │ 2 days ago   │<\n>│ 3 │ Python    │ dir  │  22 B │ 2 days ago   │<\n>╰───┴───────────┴──────┴───────┴──────────────╯
+clear
+echo \n╭───┬───────────┬──────┬───────┬──────────────╮<\n>│ # │   name    │ type │ size  │   modified   │<\n>├───┼───────────┼──────┼───────┼──────────────┤<\n>│ 0 │ Cpp       │ dir  │  30 B │ 2 days ago   │<\n>│ 1 │ F#        │ dir  │ 104 B │ 17 hours ago │<\n>│ 2 │ Markdowns │ dir  │  60 B │ 2 days ago   │<\n>│ 3 │ Python    │ dir  │  22 B │ 2 days ago   │<\n>╰───┴───────────┴──────┴───────┴──────────────╯
+clear
+ls
+clear
+ls
+clear
+cd Haskell/
+ls
+clear
+cd Nvim
+ls
+nvim config.nix
+git add .
+git commit -m "Tabom mais uma chance pro haskell"
+git push
+clear
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | bash
+nvim config.nix --refresh
+cd Hs
+cd hslç
+cd hsl
+cd Hskl
+cd Has
+cd 
+cd kl
+cd kell
+cd
+cd el
+clear
+cd
+cd el
+clea
+clear
+ls
+clear
+cd
+cd sdk
+cd ask
+ask
+as
+clear
+ls
+clear
+rm a.out
+ls
+clear
+as
+ls
+rm a.out
+clear
+cd ask
+clear
+runghc main.hs
+nvim main.hs
+git add .
+git commit -m "Codando"
+git push
+ls
+clear
+cd dotfiles/
+cd nushell/
+ls
+nvim catpuccin.nu
+clear
+cd ..
