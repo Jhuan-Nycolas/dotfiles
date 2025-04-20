@@ -1514,3 +1514,1034 @@ ls
 nvim catpuccin.nu
 clear
 cd ..
+git add .
+git commit -m "Mudando comandos desconhecidos para vermelho"
+git push
+clear
+cd ask
+clear
+nvim foreach.hs
+clear
+echo
+clear
+exit
+ls
+clear
+echo "clear; runghc main.hs" | save run.sh | entr ./run.sh
+ls
+chmod +x run.sh
+clear
+echo "clear; runghc main.hs" | save run.sh | entr ./run.sh
+clear
+ls *.hs | entr ./run.sh
+clear
+/bin/ls
+clear
+/bin/ls *.hs
+clear
+nvim foreach.hs
+exit
+tmux
+clear
+cd ask
+clear
+ls *.hs | entr ./run.sh
+clear
+ls
+clear
+ls *.hs | entr ./run.sh
+clear
+/bin/ls *.hs | entr ./run.sh
+clear
+/bin/ls *.hs | entr ./run.sh
+clear
+/bin/ls *.hs | entr ./run.sh
+clear
+/bin/ls *.hs | entr ./run.sh
+clear
+/bin/ls *.hs | entr ./run.sh
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+0 or 1
+clear
+ls
+clear
+ls
+cd Dev
+ls
+mkdir Java
+cd Java
+clear
+touch bin.java
+clear
+cd Nvim
+ls
+sudo pacman -S jdk-openjdk
+nvim config.nix
+git add .
+git commit -m "Adicionando suporte a Java"
+git push
+clear
+clear
+ls
+clear
+rm bin.java
+ls
+clear
+ls
+clear
+cd ..
+ls
+cd Cpp
+ls
+clear
+ls
+rm open.cpp
+rm Program
+ls
+clear
+nvim config.nix --refresh
+clear
+cd ..
+ls
+clear
+cd Java/
+ls
+clear
+sudo pacman -S obsidian
+yay -Syu
+clear
+cd Java
+clear
+nvim logicOperators.java
+cleat
+clear
+java Main.java
+clear
+javac Main.java
+java Main
+cçear
+clear
+javac Main.java
+java Main
+clear
+javac Main.java
+clear
+java Main
+javac Main.java; java Main
+clear; javac Main.java; java Main
+echo "clear; javac Main.java; java Main" | save run.sh
+clear
+chmod +x run.sh
+clear
+echo "Main.java" | entr ./run.sh
+cçear
+clear
+echo "Main.java" | entr ./run.sh
+clear
+nvim run.sh
+clear
+cd Nvim
+cd Dev/Java/
+ls
+clear
+exit
+nvim ~/Nvim
+clear
+nvim Main.java --refresh
+nvim ~/Nvim/config.nix
+clear
+cd ~/Nvim; git add .; git commit -m "Mudando uns keybinds"; git push; cd ~/Dev/Java
+clear
+nvim Main.java --refresh
+echo "Main.java" | entr ./run.sh
+clear
+ls
+clear
+echo "Main.java" | entr ./run.sh
+clear
+exit
+ls
+clear
+cd ..
+ls
+cd Java
+ls
+clear
+ls
+mkdir ~/Computer
+mv ./* ~/Computer
+clear
+ls
+clear
+cd ~
+ls
+clear
+cd Computer/
+ls
+clear
+ls
+git init
+git branch -m main
+git remote add repo https://github.com/Jhuan-Nycolas/Computer
+git add .
+git commit -m "Inital commit"
+git push -u repo main
+clear
+ls
+clear
+mkdir IA
+cd IA
+clear
+cd ..
+ls
+rmdir IA
+clear
+poweroff
+sudo pacman -S flutter
+clear
+sudo pacman -S dart
+yay -S flutter
+clear
+ls
+clear
+cd Computer/
+ls
+clear
+nvim
+git add .
+git commit -m "Backup"
+git push
+clear
+nvim
+clear
+git add .
+git commit -m "Backup"
+git push
+clear
+nvim
+l
+clear
+nvim
+bc
+sudo pacman -S bc
+clear
+git add .
+git commit -m "Backup"
+git push
+clear
+ls
+cd Computer/
+ls
+celar
+clear
+javac Main.java; java Main
+clear
+javac Main.java; java Main
+clear
+javac Main.java; java Main code.bin
+nvim computer/computer.java
+clear
+git add .
+git commit -m "Backup"]
+git push
+clear
+ls
+clear
+git add .
+git commit -m "Backup"
+git push
+clear
+cd
+clear
+poweroff
+sudo pacman -S spectacle
+clear
+nitch
+clear; nitch
+clear
+clear; nitch
+ks
+ls
+clear
+cd DEv
+ls
+clear
+cd Haskell/
+ls
+clear
+sudo pacman -Rns spectacle
+ar
+clear
+sudo pacman -S hyprshot
+clear
+yay -S hyprshot
+clear
+hyprshot -m Active -m 
+hyprshot --help
+clear
+hyprshot -m output -m eDP-1
+clear
+hyprshot -m output
+ls
+clear
+ls
+r  *.png
+rm]  *.png
+rm  *.png
+clear]
+clear
+hyprshot -m output
+ls
+nvim main.hs
+clear
+exit
+exit
+tmux
+cleatr
+clear
+exit
+ls
+rm  *.png
+clear
+ls
+c
+l
+c
+l *!go
+clear
+ls
+clear
+ls
+go
+clear
+ls
+cd Computer/
+ls
+clear
+nvim
+clear
+cd
+clear
+poweroff
+ls
+clear
+ls
+clear
+ls
+cd Dev
+ls
+clear
+ls
+clear
+cd ..
+ls
+clear
+clear]
+clear
+cd Computer/
+ls
+clear
+ls
+clear
+/bin/ls
+clear
+poweroff
+ls
+clear
+cd Computer/
+ls
+clear
+nvim
+clear
+cd 
+ls
+clear
+ls
+clear
+ls
+git clone https://github.com/WangTingZheng/mcp940 ./Mine
+ls
+clear
+ls
+cd Mine
+ls
+clear
+ls
+clear
+ls
+./startclient.sh
+chmod +x ./startclient.sh
+./startclient.sh
+ls
+./startclient.sh
+nvim startclient.sh
+clear
+./startclient.sh
+nvim runtime/commands.py
+clear
+sudo pacman -S python2
+sudo pacman -S python
+yay -S python2
+clear
+ls
+clear
+yay -Rns python2
+c
+l
+clear
+cd ..
+rm -rf Mine
+clear
+yay -Ss monocraft
+clear
+yay -S ttf-monocraft
+l
+clear
+ls
+clear
+cd Computer/
+nvim ~/dotfiles/kitty/kitty.conf
+yay -Rns ttf-monocraft
+yay -Rns monocraft
+yay -Qs
+yay -Rns ttf-monocraft-git
+clear
+sudo pacman -Q
+sudo pacman -Qs
+sudo pacman -Q
+sudo pacman -Q python
+sudo pacman -Q
+clear
+git clone https://github.com/Jhuan-Nycolas/Jhuan-Nycolas.github.io ./Website
+cd Website/
+ls
+clear
+ls
+clear
+sudo pacman -S inkscape
+sudo pacman -Rns inkscape
+clear
+ls
+clear
+ls
+cd dotfiles/
+ls
+cd hypr/
+ls
+cp wallpaper.jpg ~/Website/
+clear
+sudo pacman -S doas]
+sudo pacman -S doas
+doas pacman -S 
+doas
+doas -u root
+doas -u root pacman -S krita
+sudo nvim /etc/doas.conf
+sudo pacman -Rns doas
+sudo pacman -Rns opendoas
+clear
+sudo pacman -S krita
+clear
+cd Website/
+ls
+clear
+ls
+clear
+ls
+cd dotfiles/
+ls
+cd kitty/
+git clone https://github.com/Jhuan-Nycolas/Jhuan-Nycolas.github.io ./Website
+git clone https://github.com/Jhuan-Nycolas/Jhuan-Nycolas.github.io ./Websi
+cd Websi/
+ls
+mv eu.jpeg ~/Website/assets/profilepic.jpeg
+cd ..
+rm -rf Websi
+clear
+nvim
+ls
+cd Computer/
+ls
+git status
+clear
+cd ..
+rm -rf Computer/
+ls
+clear
+ls
+cd Website/
+ls
+clear
+nvim
+git add .
+git commit -m "Mudando completamente"
+git push
+clear
+nvim
+clear
+cd ..
+ls
+rm -rf Website/
+ls
+clear
+ls
+clear
+cd Dev
+ls
+git add .
+git commit -m "backup"
+git push
+clear
+weechat
+ckear
+clear
+sudo pacman -S weechat
+yay -S blightmud
+clear
+yay -Ss mud
+weechat
+yay -S mmucl
+mmucl
+clear
+mmucl
+mud
+clear
+pacman -Q
+clear
+pacman -Q mmucl
+pacman
+pacman --help
+pacman -Q mmucl
+which mmucl
+clear
+pacman -Ql mmucl
+clear
+mmucl2
+clear
+sudo pacman -Rns mmucl
+clear
+yay -Ss mud
+yay -S mudlet
+clear
+ls
+clear
+sudo pacman -S tinyfugue
+yay -S tinyfugue
+sudo pacman -Ql tinyfugue
+clear
+tf
+clear
+sudo pacman -S telnet
+yay -S telnet
+clear
+echo "import socket<\n>import threading<\n>import sys<\n><\n>def receive_messages(sock):<\n>    while True:<\n>        try:<\n>            data = sock.recv(4096)<\n>            if not data:<\n>                break<\n>            print(data.decode(), end="")<\n>        except:<\n>            break<\n><\n>def main():<\n>    host = input("MUD Host: ") or "mud.example.com"<\n>    port = int(input("Port: ") or 23)<\n><\n>    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)<\n>    sock.connect((host, port))<\n><\n>    print(f"Connected to {host}:{port}!\n")<\n><\n>    # Thread para receber mensagens do servidor<\n>    threading.Thread(target=receive_messages, args=(sock,), daemon=True).start()<\n><\n>    try:<\n>        while True:<\n>            msg = input()<\n>            sock.send((msg + "\n").encode())<\n>    except KeyboardInterrupt:<\n>        print("\nDisconnected.")<\n>        sock.close()<\n>        sys.exit()<\n><\n>if __name__ == "__main__":<\n>    main()<\n>" | save client.py
+clear
+nvim mudclient.py
+clear
+python mudclient.py
+clear
+nvim mudclient.py
+clear
+python mudclient.py
+clear
+tf
+clear
+tf telnet mud.sdf.org 4000
+clear
+sudo pacman -S inetutils
+telnet
+clear
+telnet mud.sdf.org 4000
+clear
+ls
+clear
+rm mudclient.py
+sudo pacman -Rns tinyfugue
+clear
+ls
+telnet google.com
+clear
+ls
+clear
+git clone https://github.com/DikuMUDOmnibus/ResortMUD
+cd ResortMUD/
+ls
+clear
+nvim
+clear
+ls
+clear
+make install
+sudo make
+clear
+ls -a
+clear
+ls -a
+clear
+chmod +x ./backitup
+./backitup
+clear
+ls
+clear
+pkill tmux
+tmux
+clear
+ls
+clear
+cd ..
+rm -rf ResortMUD/
+ls
+clear
+ls
+rm rm.tar.gz
+ls
+clear
+ls
+git clone https://github.com/ed2martin/intmud
+clear
+cd intmud/
+clear
+rm -rf .git
+ls
+clear
+sudo make install
+clear
+make
+make Makefile.am
+clear
+tmux
+clear
+cd ..
+rm -rf intmud/
+clear
+sudo pacman -S wget
+clear
+wget https://www.zimmers.net/anonftp/pub/projects/coffeemud/5.10/CoffeMud.zip
+wget https://www.zimmers.net/anonftp/pub/projects/coffeemud/5.10/
+rm index.html
+clear
+ls
+clear
+cd Downloads/
+ls
+l
+ll
+l
+clear
+unzip CoffeeMud.zip
+clear
+ls
+mv CoffeeMud.zip ..
+clear
+ls
+clear
+cd ..
+rm -rf Downloads/; mkdir Downloads
+clear
+ls
+unzip CoffeeMud.zip ./CoffeeMud.zip
+unzip CoffeeMud.zip ./CoffeeMud
+mkdir CoffeeMud
+unzip CoffeeMud.zip ./CoffeeMud
+clear
+cd CoffeeMud/
+clear
+unzip ../CoffeeMud.zip
+clear
+ls
+clear
+ls
+make
+clear
+sudo make
+clear
+nvim
+echo JAVA_HOME
+echo $JAVA_HOME
+clear
+which jdk
+which jdk-openjdk
+clear
+java
+clear
+which java
+clear
+readlink -f $(which java)
+clear
+which java
+readlink -f /usr/bin/java
+clear
+./InstallUNIX.sh
+chmod +x InstallUNIX.sh
+clear
+./InstallUNIX.sh
+clear
+ls
+cat mudUNIX.sh
+clear
+pkill tmux
+tmux
+clear
+clear
+ls
+clear
+ls
+rm nohup.out
+ls
+clear
+ls
+cd ..
+rm -rf CoffeeMud
+rm CoffeeMud.zip
+lc
+ls
+clear
+ls
+clear
+git clone https://github.com/jnharton/mud-server mud
+clear
+cd mud
+ls
+clear
+nvim
+clear
+nvim
+sudo pacman -S dos2unix
+clear
+ls
+clear
+l | grep *.java
+greṕ
+grep
+grep *.java
+l
+clear
+/bin/ls -R
+clear
+find .
+l | find .
+clear
+l | find .java
+cd mud
+clear
+l | find .java
+clear
+l | find .java | save files
+l | find .java | get name
+/bin/ls -R
+/bin/ls -R | find .java | get name
+/bin/ls -R | find .java
+clear
+l | find .java | get name
+clear
+/bin/ls -R | find .java
+clear
+l | find .java | get name
+clear
+nvim files
+chmod +x files.sh
+./files.sh
+clear
+./files.sh
+clear
+nvim files.sh
+clear
+./files.sh
+clear
+nvim files.sh
+./files.sh
+clear
+nvim files.sh
+./files.sh
+ls
+dos2unix MUDServer/src/mud/Constants.java
+clear
+l
+clear
+cd mud
+clear
+l
+bash
+clear
+ls
+clear
+cd mud
+ls
+clear
+nvim list
+ls
+rm list
+clear
+./files.sh
+clear
+nvim files.sh
+clear
+./files.sh
+clear
+nvim files.sh
+clear
+./files.sh
+clear
+nvim
+./files.sh
+nvim files.sh
+./files.sh
+clear
+ls
+clear
+ls
+clear
+nvim
+java -jar mud_server.jar
+ls
+clear
+ls
+javac MUDServer/src/mud/MUDServer.java
+ls
+clear
+sudo pacman -S ant
+ant
+cd MUDServer/
+ant
+clear
+ls
+cd ..
+ls
+cd MUDServer/
+ls
+clear
+ls
+cd dist/
+ls
+cd ..
+ls
+clear
+cd build/ls
+cd build/
+ls
+java -jar mud_server.jar
+cd ..
+sudo pacman -S jdk-openjdk-11
+sudo pacman -S jdk-11-openjdk
+sudo pacman -Ss openjdk
+sudo pacman -Ss openjdk11
+sudo pacman -S openjdk11
+sudo pacman -S openjdk11-src
+sudo pacman -S jdk11-openjdk
+clear
+ls
+clear
+ant
+ls
+cd build
+ls
+clear
+ls
+java --version
+clear
+let-env JAVA_HOME = "/usr/lib/jvm/java-11-openjdk-amd64"  # Ajuste o caminho conforme seu sistema<\n>let-env PATH = ($env.PATH | prepend $"($env.JAVA_HOME)/bin")
+clear
+$env.JAVA_HOME = "/usr/lib/jvm/java-11-openjdk-amd64"  # Ajuste o caminho conforme seu sistema<\n>$env.PATH = ($env.PATH | prepend $"($env.JAVA_HOME)/bin")
+clear
+$env.JAVA_HOME = "/usr/lib/jvm/java-11-openjdk"  # Ajuste o caminho conforme seu sistema<\n>$env.PATH = ($env.PATH | prepend $"($env.JAVA_HOME)/bin")
+ant
+cd ..
+ant
+ls
+cd build
+ls
+java -jar mud_server.jar
+cd data
+ls
+cd help
+ls
+clear
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+clear
+ls
+cd dist
+ls
+unzip mudserver_20250419.zip
+ls
+rm -rf data
+rm mud_server.jar
+ls
+clear
+cd ..
+ls
+clear
+ls
+cd bin
+ls
+cd ..
+ls
+clear
+ls
+ant
+clear
+ls
+cat build.xml
+clear
+ls
+cd dist
+ls
+cd ,,
+cd ..
+ls
+clear
+ls
+cd build/ls
+cd build/
+ls
+clear
+cat mud_server.jar
+cd ..
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+cd build
+clear
+java -jar mud_server.jar
+clear
+..
+l
+clear
+ls
+# 1. Limpe o build anterior<\n>ant clean<\n><\n># 2. Forçar recompilação completa<\n>ant compile<\n><\n># 3. Verifique se as classes foram geradas<\n>ls bin/mud | where name =~ ".*.class"<\n><\n># 4. Criar o JAR com manifest correto<\n>(<\n>    echo "Main-Class: mud.MUDServer"<\n>    echo "Class-Path: ."<\n>) | save -f manifest.txt<\n><\n>ant jar | ignore  # Ignora mensagens de warning<\n><\n># 5. Executar corretamente (dentro da pasta dist/)<\n>cd dist<\n>java -jar mud_server.jar
+clear
+cd ..
+cd .
+cd ..
+ls
+rm -rf mud
+clear
+sudo pacman -Rns dos2unix
+clear
+telnet mud.sdf.org 4000
+clear
+telnet mud.sdf.org 4000
+clear
+ls
+clear
+yay -S tinyfugue
+clear
+tf telnet mud.sdf.org 4000
+clear
+tf
+clear
+sudo pacman -S mudlet
+clear
+yay -S mudlet
+clear
+tf
+clear
+ls
+clear
+ls
+clear
+ls
+cd Dev
+ls
+clear
+cd ..
+clear
+ls
+clear
+sudo pacman -S gradle
+clear
+ls
+cd Dev
+ls
+cd ...
+clear
+cd tux
+clear
+mkdir JavaFX
+cd JavaFX/
+ls
+clear
+cd ..
+rmdir JavaFX/
+clear
+ls
+clear
+git clone https://github.com/Jhuan-Nycolas/Jhuan-Nycolas.github.io ./Website
+cd Website/
+ls
+clear
+nvim main.js
+git add .
+git commit -m "backup"
+git push
+clear
+nvim index.html
+clear
+git add .
+git commit -m "backup"
+git push
+clear
+ls
+clear
+ls
+clear
+l
+sclear
+ls
+clear
+ls
+clear
+l
+clear
+sudo pacman -S discord
+yay -S ttf-noto-nerd-font
+yay -S ttf-noto
+yay -Ss ttf-noto
+yay -Ss ttf-noto-nerd
+yay -S ttf-noto-nerd
+pkill discord
+sudo pacman -S bashtop
+bashtop
+sudo pacman -Rns discord
+clear
+bashtop --help
+bashtop
+clear
+sudo pacman -S tty-clock
+cmatrix
+clear
+sudo pacman -S ansi-clock
+yay -S tty-clock
+tty-clock
+clear
+tty-clock
+tty-clock -c -C 4 -b
+tty-clock --help
+clear
+tty-clock -c -C 4 -b
+clear
+nvim dotfiles/nushell/
+clear
+clock
+clear
+ls
+cd dotfiles
+ls

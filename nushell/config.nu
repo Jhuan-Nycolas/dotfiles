@@ -7,6 +7,7 @@ $env.config.buffer_editor = "nvim"
 alias cd = z
 alias cat = bat
 alias c = clear
+alias clock = tty-clock -c -C 4 -b
 
 alias icon = grid -i -s '  '
 
