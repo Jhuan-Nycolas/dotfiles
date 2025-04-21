@@ -2776,3 +2776,22 @@ clear
 ls
 cd dotfiles/
 git status
+rm -rf dotfiles
+git clone https://github.com/Jhuan-Nycolas/dotfiles ./dotfiles
+ls
+clear
+ls
+clear
+c
+ls
+cd Nvim
+ls
+git status
+cd ..
+ls
+rm -rf Nvim
+ls
+clear
+ls
+mv Screenshots/ dotfiles/
+cd dotfiles/
