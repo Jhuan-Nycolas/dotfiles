@@ -2545,3 +2545,234 @@ clear
 ls
 cd dotfiles
 ls
+git add .
+git commit -m "backup"
+git push
+cd ..
+clear
+ls
+clear
+git clone https://github.com/Jhuan-Nycolas/NixDotfiles ./setup
+ls
+clear
+nvim
+nix profile install firefox
+nix run nixpkgs#firefox
+ls
+rm -rf setup/
+ls
+clear
+nitch
+sudo pacman -Ss noto
+sudo pacman -S noto-fonts-emoji
+nitch
+clear
+nitch --help
+nitch f
+nitch -f
+nitch v
+nitch -v
+clear
+nitch
+clear
+cd ask
+clear
+ls
+clear
+cd ask
+clear
+echo "main.hs" | entr ./run.sh
+clear
+echo "main.hs" | entr ./run.sh
+exit
+nvim main.hs
+cllear
+ls
+clear
+ls
+cd `Haskell Doc_files/`
+ls
+cd ..
+clear
+ls
+cd ..
+git add .
+git commit -m "backup"
+git push
+clear
+cd ..
+ls
+clear
+exit
+tmux
+clear
+exit
+alsamixer
+clear
+sudo pacman -S ansi-clock
+yay -S ansi-clock
+clear
+nitch
+ls
+clear
+ls
+clear
+cd ask
+ls
+clear
+clear; nitch
+sudo pacman -Syu
+clear
+clear; nitch
+exit
+clear; nitch
+clear
+hyprshot -m output
+ls
+clear
+ls
+dolphin 2025-04-20-174341_hyprshot.png
+yay -Ss enve
+sudo pacman -S godot
+ls
+cd test
+ls
+clear
+ls
+nvim project.godot
+clear
+sudo pacman -Rns godot
+clear
+ls
+rm -rf test
+ls
+clear
+ls
+$env.PWD = ".."
+ls
+clear
+mkdir .
+mkdir test
+mkdir ../test
+pwd
+ls
+mkdir test
+ls
+clear
+ls
+clear
+cd ..
+ls
+rmdir test
+sudo pacman -S krita
+sudo pacman -Rns krita
+clear
+sudo pacman -Rns
+clear
+sudo pacman -Rns fastfetch
+clear
+sudo systemctl enable bluetooth
+bluetoothctl
+sudo systemctl start bluetooth
+clear
+sudo pacman -S bluez
+clear
+sudo systemctl start bluetooth
+bluetoothctl
+clear
+sudo pacman -S blueman
+sudo pacman -S pulseaudio pulseaudio-bluetooth pavucontrol
+pulseaudio -k && pulseaudio --start<\n>sudo systemctl restart bluetooth
+clear
+pulseaudio -k && pulseaudio --start;<\n>sudo systemctl restart bluetooth
+pulseaudio -k and pulseaudio --start<\n>sudo systemctl restart bluetooth
+pulseaudio -k; pulseaudio --start<\n>sudo systemctl restart bluetooth
+ls
+clear
+sudo pacman -S nodejs yarn
+clear
+sudo pacman -S nodejs yarn
+clear
+ls
+mkdir Screenshots
+mv 2025-04-20-174341_hyprshot.png Screenshots/
+ls
+cd Dev
+ls
+clear
+ls
+mkdir coffeeshop
+cd coffeeshop/
+çs
+ls
+clear
+cd ..
+rmdir coffeeshop/
+ls
+clear
+yarn create vue
+cd coffeeshop/
+yan
+yarn
+clear
+ls
+clear
+nvim
+ls
+clear
+sudo systemctl enable bluetooth
+ls
+cd dev
+ls
+cd coffeeshop/
+nvim
+clear
+exit
+yarn dev
+cçear
+clear
+exit
+tmux
+clear
+exit
+ls
+cd Downloads
+çs
+ls
+cd ..
+ls
+cd Dev
+ls
+cd coffeeshop/
+ls
+cd src
+cd assets/
+ls
+cd imgs/
+ls
+mv nixos-plasma6-24.11.716947.26d499fc9f1d-x86_64-linux.iso nixos.iso
+ls
+mv nixos.iso ~/
+ls
+cd ..
+git add .
+git commit -m "backup"
+git push
+clear
+ls
+cd ..
+ls
+cd Website/
+git status
+git add .
+git commit -m "backup"
+git push
+cd ..
+ls
+rm -rf Dev
+rm -rf Website/
+ls
+clear
+ls
+cd dotfiles/
+git status
